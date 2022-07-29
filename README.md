@@ -5,6 +5,6 @@ Technologies used:
 - React, Next.js, Tailwind CSS for the frontend.
 - GraphQL backend connected to a PostgreSQL database.
 - Login authentication flow with the Reddit API using NextAuth.js.
-- Vercel to deploy the app
+- Vercel to deploy the app.
 
 Access the app at [social-media-app-black.vercel.app](social-media-app-black.vercel.app)
