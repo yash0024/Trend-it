@@ -7,4 +7,4 @@ Technologies used:
 - Login authentication flow with the Reddit API using NextAuth.js.
 - Vercel to deploy the app.
 
-Access the app at [social-media-app-black.vercel.app](social-media-app-black.vercel.app)
+Access the app at [https://social-media-app-black.vercel.app/](https://social-media-app-black.vercel.app/)
